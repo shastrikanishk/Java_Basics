@@ -20,7 +20,7 @@ public class Array_Code {
 
         //i=A_L[];
         //for (starting point;ending point; increment or decrement)
-        for (i=0;i<4;i++){
+        for (int i=0;i<4;i++){
 
             System.out.println(A_L[i]);
 
