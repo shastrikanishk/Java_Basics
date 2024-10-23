@@ -6,7 +6,7 @@ public class Array_Code {
         //int[] al = {111,222,333};
         //System.out.println(al[0]);
 
-        int A_L[]= new int[5];
+        int[] A_L = new int[5];
         A_L[0]=2;
         A_L[1]=3;
         A_L[2]=4;
