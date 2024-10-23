@@ -2,7 +2,7 @@ public class polymorphism_conecpt {
 
 
     public static void Polimorconcept(){
-        int ar_l[] = new int[3];
+        int[] ar_l = new int[3];
         ar_l[0]=2;
         ar_l[1]=3;
         ar_l[2]=4;
