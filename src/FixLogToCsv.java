@@ -88,3 +88,5 @@ public class FixLogToCsv {
         }
     }
 
+#How to compile this - javac FixLogToCsv.java
+        #How to run this - java FixLogToCsv
